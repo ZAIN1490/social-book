@@ -10,7 +10,7 @@ A responsive, static front-end social media platform interface modeled after Fac
 
 <div align="center">
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://social-book-rho.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://social-book-olive.vercel.app/)
 [![GitHub Repository](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZAIN1490/social-book)
 
 </div>
@@ -22,7 +22,7 @@ A responsive, static front-end social media platform interface modeled after Fac
 ## 🚀 Live Demo
 
 Check out the live deployment on Vercel:  
-👉 **[https://social-book-rho.vercel.app/](https://social-book-rho.vercel.app/)**
+👉 **[https://social-book-olive.vercel.app/](https://social-book-olive.vercel.app/)**
 
 ---
 
