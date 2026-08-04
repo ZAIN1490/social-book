@@ -1,4 +1,12 @@
 
+
+- 📄 [**index.html**](./index.html) — Main news feed and landing dashboard layout
+- 📄 [**profile.html**](./profile.html) — User profile layout with cover banner and activity
+- 🎨 [**style.css**](./style.css) — Complete styling rules, responsive grid, and theme variables
+- 📜 [**script.js**](./script.js) — Settings toggle and dark mode interaction logic
+- 📖 [**README.md**](./README.md) — Repository documentation
+
+Updated README.md Block
 # 📱 Social Book — Facebook UI Clone
 
 A responsive, static front-end social media platform interface modeled after Facebook's layout design, featuring dark mode toggling, dynamic navigation menus, story gallery components, and interactive user profile views using vanilla HTML, CSS, and JavaScript.
@@ -51,17 +59,20 @@ Check out the live deployment on Vercel:
 
 ## 📂 Project Structure
 
-```text
-zain1490-social-book/
-├── index.html        # Main news feed and landing dashboard layout
-├── profile.html      # User profile layout with cover banner and activity
-├── style.css         # Complete styling rules, responsive grid, and theme variables
-├── script.js         # Settings toggle and dark mode interaction logic
-└── README.md         # Repository documentation
+* 📄 [**index.html**](./index.html) — Main news feed and landing dashboard layout
+* 📄 [**profile.html**](./profile.html) — User profile layout with cover banner and activity
+* 🎨 [**style.css**](./style.css) — Complete styling rules, responsive grid, and theme variables
+* 📜 [**script.js**](./script.js) — Settings toggle and dark mode interaction logic
+* 📖 [**README.md**](./README.md) — Repository documentation
 
-⚙️ Getting Started
+---
+
+## ⚙️ Getting Started
+
 To run this project locally on your machine:
- * Clone the repository:
+
+1. **Clone the repository:**
+   ```bash
    git clone [https://github.com/ZAIN1490/social-book.git](https://github.com/ZAIN1490/social-book.git)
 
  * Navigate to the project directory:
