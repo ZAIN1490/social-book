@@ -1,12 +1,6 @@
 
 
-- 📄 [**index.html**](./index.html) — Main news feed and landing dashboard layout
-- 📄 [**profile.html**](./profile.html) — User profile layout with cover banner and activity
-- 🎨 [**style.css**](./style.css) — Complete styling rules, responsive grid, and theme variables
-- 📜 [**script.js**](./script.js) — Settings toggle and dark mode interaction logic
-- 📖 [**README.md**](./README.md) — Repository documentation
 
-Updated README.md Block
 # 📱 Social Book — Facebook UI Clone
 
 A responsive, static front-end social media platform interface modeled after Facebook's layout design, featuring dark mode toggling, dynamic navigation menus, story gallery components, and interactive user profile views using vanilla HTML, CSS, and JavaScript.
