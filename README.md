@@ -1,4 +1,3 @@
-
 # 📱 Social Book — Facebook UI Clone
 
 A responsive, static front-end social media platform interface modeled after Facebook's layout design, featuring dark mode toggling, dynamic navigation menus, story gallery components, and interactive user profile views using vanilla HTML, CSS, and JavaScript.
@@ -10,7 +9,7 @@ A responsive, static front-end social media platform interface modeled after Fac
 
 <div align="center">
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://social-book-rho.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://social-book-olive.vercel.app/)
 [![GitHub Repository](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZAIN1490/social-book)
 
 </div>
@@ -22,7 +21,7 @@ A responsive, static front-end social media platform interface modeled after Fac
 ## 🚀 Live Demo
 
 Check out the live deployment on Vercel:  
-👉 **[https://social-book-rho.vercel.app/](https://social-book-rho.vercel.app/)**
+👉 **[https://social-book-olive.vercel.app/](https://social-book-olive.vercel.app/)**
 
 ---
 
@@ -58,22 +57,3 @@ zain1490-social-book/
 ├── style.css         # Complete styling rules, responsive grid, and theme variables
 ├── script.js         # Settings toggle and dark mode interaction logic
 └── README.md         # Repository documentation
-
-⚙️ Getting Started
-To run this project locally on your machine:
- * Clone the repository:
-   git clone [https://github.com/ZAIN1490/social-book.git](https://github.com/ZAIN1490/social-book.git)
-
- * Navigate to the project directory:
-   cd social-book
-
- * Open the project:
-   Simply double-click index.html or open it using VS Code's Live Server extension.
-👤 Author
-Zain Masood
- * Portfolio: zainmasood.vercel.app
- * GitHub: @ZAIN1490
- * LinkedIn: Zain Masood
- * YouTube: @zain-xj6v
-⭐ If you found this project helpful or interesting, feel free to give it a star!
-
